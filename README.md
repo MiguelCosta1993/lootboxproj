@@ -1,2 +1,2 @@
-Haitham Joe and Mikes project. No gonçalos were harmed during production.
+Last project for IronHack, a group project of a Fullstack Application.
 
